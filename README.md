@@ -7,7 +7,7 @@ This project consisted of me and https://github.com/Ghassanee/ trying to quickly
 
 if someone has the genius idea (read: very bad practice) of creating a bunch of methods that return hundreds of values with **print** functions, then you either tell them off or you just cram them into pd.DataFrames and jsonify the sh\*t out of them.
 
-i also tinkered a bit with JavaScript, Reactjs and flask but at what cost ? 
+i also tinkered a bit with Reactjs and flask but at what cost ? 
 
 # Features
 ***Portfolio optimisation***
