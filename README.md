@@ -1,7 +1,7 @@
 
 # interface for OPVCM BMCE and co.
 
-This project consisted of trying to confect a graphical interface for the mess that is [this bad boy right here](https://colab.research.google.com/drive/1k2lZlVZ-8U90edRUL4o4PnxwzVvGhddo?usp=sharing)
+This project consisted of me and https://github.com/Ghassanee/ trying to confect a graphical interface for the mess that is [this bad boy right here](https://colab.research.google.com/drive/1k2lZlVZ-8U90edRUL4o4PnxwzVvGhddo?usp=sharing)
 
 # What did we learn ? 
 
@@ -14,4 +14,4 @@ i also tinkered a bit with JavaScript, Reactjs and flask but at what cost ?
 
 ***Stock info and indicators***
 
-***A bunch of other banking shenanignans that i couldnt possibly care less about***
+***A bunch of other banking shenanignans***
