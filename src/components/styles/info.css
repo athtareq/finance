@@ -1,0 +1,22 @@
+.info {
+  min-width: 300px;
+  margin: 20px;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  display: grid;
+}
+.textSelect {
+  margin: 20px;
+  font-size: 22px;
+}
+.imp {
+  margin-top: 20px;
+}
+.date {
+  display: block !important;
+  margin: 20px 0 !important;
+}
+.date1 {
+  margin-top: 30px !important;
+}
